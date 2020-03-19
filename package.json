@@ -1,0 +1,11 @@
+{
+  "name": "hx-animation-helper",
+  "version": "1.0.0",
+  "description": "Scripting to handle adding and removing animation utility classes",
+  "main": "index.js",
+  "keywords": [
+    "animation"
+  ],
+  "author": "@LouisPryer",
+  "license": "MIT"
+}
