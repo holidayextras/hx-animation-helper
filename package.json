@@ -1,11 +1,15 @@
 {
   "name": "hx-animation-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Scripting to handle adding and removing animation utility classes",
   "main": "index.js",
   "keywords": [
     "animation"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/holidayextras/hx-animation-helper.git"
+  },
   "author": "@LouisPryer",
   "license": "MIT"
 }
